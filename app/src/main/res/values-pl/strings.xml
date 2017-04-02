@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AZS</string>
+    <string name="app_subtitle">absolutnie zbędny stoper</string>
+    <string name="cancelled">Anulowano!</string>
+    <string name="about_me">O mnie</string>
+</resources>
